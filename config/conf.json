@@ -4,6 +4,6 @@
     "serverName": "Client Internal Database",
     "iconName": "Moon-icon.png",
     "terminalID": "Admin0",
-    "defaultUser": "GRudolf",
+    "defaultUser": "User",
     "randomSeed": false
 }
