@@ -1,9 +1,9 @@
 {
-    "year": "1965",
+    "year": "1976",
     "serverAddress": "127.0.0.1",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Client Internal Database",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
-    "defaultUser": "anonymous",
+    "terminalID": "Admin0",
+    "defaultUser": "GRudolf",
     "randomSeed": true
 }
