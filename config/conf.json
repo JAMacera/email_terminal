@@ -5,5 +5,5 @@
     "iconName": "Moon-icon.png",
     "terminalID": "Admin0",
     "defaultUser": "GRudolf",
-    "randomSeed": true
+    "randomSeed": false
 }
