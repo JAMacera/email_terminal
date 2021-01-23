@@ -3,7 +3,7 @@
     "serverAddress": "127.0.0.1",
     "serverName": "Client Internal Database",
     "iconName": "Moon-icon.png",
-    "terminalID": "Admin0",
+    "terminalID": "Terminal0",
     "defaultUser": "User",
     "randomSeed": false
 }
